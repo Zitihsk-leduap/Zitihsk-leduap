@@ -78,6 +78,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Zitihsk-leduap/Zitihsk-leduap/output/snake.svg" alt="Snake animation" />
 
 ###
