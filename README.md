@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">✨ Experienced in full-stack and data-driven application development<br>📚 Currently learning AI/ML<br>🌱 AWS Certified Solutions Architect – Associate (SAA-C03)</h5>
+<p align="left">✨ Experienced in full-stack and data-driven application development<br>📚 Currently learning AI/ML<br>🌱 AWS Certified Solutions Architect – Associate (SAA-C03)</p>
 
 ###
 
