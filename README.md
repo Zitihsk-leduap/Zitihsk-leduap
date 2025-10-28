@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm a Computer Engineering Student</h4>
+<h4 align="center">Computer Engineering Student</h4>
 
 ###
 
