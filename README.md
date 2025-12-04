@@ -76,20 +76,6 @@
   </a>
 </div>
 
-
-## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Zitihsk-leduap&theme=radical)](https://git.io/streak-stats)
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zitihsk-leduap&show_icons=true&theme=radical)
-
-## 🧠 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zitihsk-leduap&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=Zitihsk-leduap&color=blue)
-
-
 ###
 
 
