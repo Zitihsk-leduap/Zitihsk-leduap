@@ -1,4 +1,4 @@
-<h1 align="center">A student of technology, a believer in patience, and a builder of quiet things.</h1>
+<h1 align="center">Computer Engineering Student</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left"><br> Currently learning AI/ML and Agentic AI Workflow<br> AWS Certified Solutions Architect – Associate (SAA-C03)</p>
+<p align="left"><br> Currently learning AI/ML and Agentic AI Workflow<br> </p>
 
 ###
 
