@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left"><br> Currently learning AI/ML and Agentic AI Workflow<br> </p>
+<p align="left"><br> I'm currently learning AI/ML and Agentic AI Workflow<br> </p>
 
 ###
 
