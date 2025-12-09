@@ -60,7 +60,7 @@
 
 <br clear="both">
 
-<h3 align="left">Connect with Me:</h3>
+<h3 align="left">Let's Connect Via:</h3>
 
 ###
 
