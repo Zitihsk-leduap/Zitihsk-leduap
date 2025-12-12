@@ -61,13 +61,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" />
   </a>
 </div>
-
----
-
-### 📊 GitHub Stats & Analytics
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=kshitizpaudel&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitizpaudel&layout=compact&theme=tokyonight&hide_border=true)
-
-![Kshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshitizpaudel&show_icons=true&theme=tokyonight&hide_border=true)
