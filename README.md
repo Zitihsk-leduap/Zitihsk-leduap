@@ -46,11 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" />
 </div>
 
-<br clear="both">
-## 🔥 GitHub Streaks
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)](https://git.io/streak-stats)
-
+ <br clear="both">
+ 
 <h3 align="left">Let's Connect Via:</h3>
 
 <div align="left">
