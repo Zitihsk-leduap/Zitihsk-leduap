@@ -47,6 +47,9 @@
 </div>
 
 <br clear="both">
+## 🔥 GitHub Streaks
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)](https://git.io/streak-stats)
 
 <h3 align="left">Let's Connect Via:</h3>
 
