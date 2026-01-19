@@ -1,4 +1,4 @@
-<h1 align="center">Learning Today. Engineering Tomorrow.</h1>
+<h1 align="center">Becoming the engineer I’d respect.</h1>
 
 <p align="left"><br> I'm currently learning AI/ML and Agentic AI Workflow<br> </p>
 
