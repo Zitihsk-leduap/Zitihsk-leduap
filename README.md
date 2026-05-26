@@ -1,6 +1,6 @@
 <h1 align="center">On the path to the engineer I envision.</h1>
 
-<p align="left"><br> I'm currently learning AI/ML and Agentic AI Workflow<br> </p>
+<!-- <p align="left"><br> I'm currently learning AI/ML and Agentic AI Workflow<br> </p>
 
  
 <h3 align="left">Let's Connect Via:</h3>
@@ -13,4 +13,4 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" />
   </a>
 
-</div>
+</div> -->
